@@ -89,9 +89,7 @@ live demo
 ---
 
 ## 👨‍💻 Author
-
-Your Name
-
+Intership
 ---
 
 ## ⭐️ If you like this project
